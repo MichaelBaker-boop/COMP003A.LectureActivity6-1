@@ -1,4 +1,8 @@
-﻿namespace COMP003A.LectureActivity6_1
+﻿// Author: Michael Baker
+// Course: COMP-003A
+// Faculty: Jonathan Cruz
+// Purpose: Display and practice using Inheritance between classes
+namespace COMP003A.LectureActivity6_1
 {
     internal class Program
     {
